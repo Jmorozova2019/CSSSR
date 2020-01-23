@@ -1,0 +1,7 @@
+<suite name="Suite" verbose="1"  parallel="tests" thread-count="1">
+    <test name="BlogCSSSR" enabled="true">
+        <classes>
+            <class name="BlogCSSSR.QaEngineerTest" />
+        </classes>
+    </test>
+</suite>
